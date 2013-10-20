@@ -2,3 +2,7 @@
 .idea
 
 pillar/
+
+salt/top.sls
+salt/wonders/
+salt/ssh/keys/*.pub
